@@ -52,3 +52,6 @@
 [submodule "sources_non_forked/tagbar"]
 	path = sources_non_forked/tagbar
 	url = https://github.com/majutsushi/tagbar
+[submodule "sources_non_forked/editorconfig-vim"]
+	path = sources_non_forked/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
