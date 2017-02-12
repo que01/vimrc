@@ -58,3 +58,6 @@
 [submodule "sources_non_forked/fcitx-vim-osx"]
 	path = sources_non_forked/fcitx-vim-osx
 	url = https://github.com/CodeFalling/fcitx-vim-osx
+[submodule "sources_non_forked/vim-vue"]
+	path = sources_non_forked/vim-vue
+	url = https://github.com/posva/vim-vue
